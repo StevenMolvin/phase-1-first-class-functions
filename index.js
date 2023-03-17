@@ -1,3 +1,4 @@
+const x = x();
 function receivesAFunction(x) {
     x();
 }
